@@ -1,0 +1,21 @@
+{
+  "name": "pami-nicol-condori",
+  "version": "1.0.0",
+  "description": "Programação de Aplicativos Mobile I com o professor João Siles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolesther/pami-nicol-condori.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nicolesther/pami-nicol-condori/issues"
+  },
+  "homepage": "https://github.com/nicolesther/pami-nicol-condori#readme"
+}
